@@ -14,7 +14,7 @@ Mas primeiramente irei focar em criar um certo universo para que seja mais facil
 Observação: Aprendendo programação e usando DeepSeek para tirar pequenas dúvidas e auxiliando meu desenvolvimento.
 
 
-========================================================================================================
+====================================================================================
 
 NPC Names Villages
 
