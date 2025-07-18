@@ -27,7 +27,7 @@ agora está tratado em projeto de implementação da identidade dos mesmo, para 
 moldáveis a todos, sem restrição de formato de uso, sendo usado para criar informações básicas de histórias, livros, rpg, personagem,
 cartas, documentos em game, ideias de formulários de aplicativos, criação de personalizade de bot e ia... E assim por diante.
 
-====================================================================================================================================
+===================================================================================
 
 The first update was based on enriching information and organizing the system for easy searching and reading, both in code format and in the pygame interface. This made the project more fluid and comprehensive, providing a clean and user-friendly experience.
 
