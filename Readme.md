@@ -29,4 +29,3 @@ But first, I will focus on creating a certain universe to make it easier to unde
 
 Note: Learning programming and using DeepSeek to answer small questions and aid my development.
 
-Translated with DeepL.com (free version)
