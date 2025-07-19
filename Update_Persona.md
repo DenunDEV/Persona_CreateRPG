@@ -25,7 +25,7 @@ Acima são alguns exemplos simples para exemplificar a dinâmica de planejamento
   Como um processo de criação e personalização de personagem, precisamos ter as informações básicas nisso. Com tudo, o projeto até
 agora está tratado em projeto de implementação da identidade dos mesmo, para uso livre de criação de gêneros, características
 moldáveis a todos, sem restrição de formato de uso, sendo usado para criar informações básicas de histórias, livros, rpg, personagem,
-cartas, documentos em game, ideias de formulários de aplicativos, criação de personalizade de bot e ia... E assim por diante.
+cartas, documentos em game, ideias de formulários de aplicativos, criação de personalidade de bot e ia... E assim por diante.
 
 ===================================================================================
 
